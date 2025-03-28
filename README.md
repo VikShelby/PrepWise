@@ -1,9 +1,5 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=8GK8R77Bd7g" target="_blank">
-      <img src="https://github.com/user-attachments/assets/1c0131c7-9f2d-4e3b-b47c-9679e76d8f9a" alt="Project Banner">
-    </a>
-  <br />
+
   
   <div>
     <img src="https://img.shields.io/badge/-Next.JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=black" alt="next.js" />
@@ -17,15 +13,6 @@
 
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
